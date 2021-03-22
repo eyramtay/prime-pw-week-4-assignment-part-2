@@ -1,0 +1,26 @@
+header {
+  background-color: #4287f5;
+}
+
+.info {
+  background-color: purple;
+  color: gold;
+}
+
+.description {
+  background-color: #78c4c1;
+  color: #691428;
+}
+
+img {
+  border-style: dashed;
+  border-radius: 40%;
+  height: 600px;
+  width: 800px;
+}
+
+img:hover {
+  border-style: solid;
+  border-radius: 0;
+  transition-duration: 2s;
+}
